@@ -1,3 +1,3 @@
-export default function add(a, b) {
-  return a + b;
-}
+import { add } from './funcs'
+
+export default { add }
